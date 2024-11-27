@@ -1,5 +1,6 @@
 # Welcome to my page! 
 - 👋 Hi, I’m Slastoski
+- 🧦 Always wearing programmer's socks!
 - 👀 I’m interested in Moderation
 - 🌱 I’m currently learning C#. Fluent in JS, HTML, Python, TS.
 - 🖤 I’m looking to collaborate on nothing. I work independently.
