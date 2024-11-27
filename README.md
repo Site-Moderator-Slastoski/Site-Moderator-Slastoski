@@ -5,7 +5,7 @@
 - 🖤 I’m looking to collaborate on nothing. I work independently.
 - 📫 How to reach me: Using a phone or PC.
 - 😄 Pronouns: Chat/GPT
-- 🎃 Happy Halloween!
+- 🎄 Merry Christmas!
 
 <!---
 Site-Moderator-Slastoski/Site-Moderator-Slastoski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
